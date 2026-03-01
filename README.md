@@ -23,82 +23,19 @@ El resultado final fue presentado mediante un <strong>Dashboard Interactivo</str
 
 <hr>
 
-<h2>🛠️ Skills Técnicas Aplicadas</h2>
-
-<h3>📥 Obtención y Comprensión de Datos</h3>
-<ul>
-  <li>Extracción de datos desde Kaggle (.csv)</li>
-  <li>Análisis exploratorio inicial (EDA)</li>
-  <li>Definición de modelo entidad-relación</li>
-</ul>
-
-<h3>🧼 Limpieza y Transformación de Datos</h3>
-<ul>
-  <li>Uso de <strong>Python</strong> para limpieza y normalización</li>
-  <li>Transformación de archivos originales en tablas finales estructuradas</li>
-  <li>Tratamiento de valores nulos, inconsistencias y duplicados</li>
-</ul>
-
-<h3>☁️ Ingeniería de Datos en la Nube</h3>
-<ul>
-  <li>Construcción de base de datos en <strong>Google BigQuery</strong></li>
-  <li>Automatización de carga de datos hacia Google Cloud</li>
-  <li>Documentación del flujo automatizado mediante videos explicativos</li>
-</ul>
-
-<h3>🧠 Machine Learning</h3>
-<ul>
-  <li>Implementación de modelo supervisado con <strong>Scikit-Learn</strong></li>
-  <li>Aplicación de <strong>árboles de decisión</strong></li>
-  <li>Desarrollo de algoritmo orientado a resolver una pregunta de negocio concreta</li>
-</ul>
-
-<h3>📊 Business Intelligence</h3>
-<ul>
-  <li>Modelado de datos en <strong>Power BI</strong></li>
-  <li>Construcción de Dashboard Interactivo</li>
-  <li>Visualización estratégica para toma de decisiones</li>
-</ul>
-
-<h3>🎤 Comunicación y Validación</h3>
-<ul>
-  <li>Presentación inicial del proyecto en <strong>PowerPoint</strong> para aprobación de Stakeholders</li>
-  <li>Defensa final en vivo ante audiencia</li>
-  <li>Explicación técnica del pipeline completo</li>
-</ul>
-
-<hr>
-
-<h2>📂 Estructura del Proyecto</h2>
-
-<p>
-Dentro del repositorio se encuentran organizadas las carpetas que detallan:
-</p>
-
-<ul>
-  <li>Códigos utilizados en Python</li>
-  <li>Scripts de carga y automatización</li>
-  <li>Modelo de base de datos</li>
-  <li>Archivos de Power BI</li>
-  <li>Presentaciones</li>
-  <li>Documentación técnica</li>
-</ul>
-
-<hr>
-
 <h2>🎥 Videos Explicativos</h2>
 
 <ul>
   <li>
     <strong>Automatización de flujo de información</strong> – Grupo Uno | Henry (2026) DAPT10 <br>
-    👉 <a href="https://www.youtube.com/watch?v=TvqV5F1UrmE" target="_blank">
+    👉 <a href="https://www.youtube.com/watch?v=C5t6HAnuLo0" target="_blank">
     Ver en YouTube
     </a>
   </li>
   <br>
   <li>
     <strong>Aplicación de árboles de decisión</strong> – Grupo 1 | Henry 2026 <br>
-    👉 <a href="https://www.youtube.com/watch?v=C5t6HAnuLo0" target="_blank">
+    👉 <a href="https://www.youtube.com/watch?v=TvqV5F1UrmE" target="_blank">
     Ver en YouTube
     </a>
   </li>
