@@ -89,8 +89,19 @@ Dentro del repositorio se encuentran organizadas las carpetas que detallan:
 <h2>🎥 Videos Explicativos</h2>
 
 <ul>
-  <li><strong>Automatización de flujo de información</strong> – Grupo Uno | Henry (2026) DAPT10</li>
-  <li><strong>Aplicación de árboles de decisión</strong> – Grupo 1 | Henry 2026</li>
+  <li>
+    <strong>Automatización de flujo de información</strong> – Grupo Uno | Henry (2026) DAPT10 <br>
+    👉 <a href="https://www.youtube.com/watch?v=TvqV5F1UrmE" target="_blank">
+    Ver en YouTube
+    </a>
+  </li>
+  <br>
+  <li>
+    <strong>Aplicación de árboles de decisión</strong> – Grupo 1 | Henry 2026 <br>
+    👉 <a href="https://www.youtube.com/watch?v=C5t6HAnuLo0" target="_blank">
+    Ver en YouTube
+    </a>
+  </li>
 </ul>
 
 <hr>
