@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Preview.png" width="900" alt="Preview">
+  <img src="https://raw.githubusercontent.com/lucasalamanni/NBA_dashboard/main/Captura%20de%20pantalla%202026-03-01%20182525.png" width="900" alt="Preview">
 </p>
 
 <h1 align="center">📊 Data Analytics Bootcamp | Proyecto Final End-to-End</h1>
