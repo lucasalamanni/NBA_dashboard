@@ -9,7 +9,7 @@
 <h2>📌 Resumen</h2>
 
 <p>
-El siguiente trabajo corresponde a la <strong>entrega final de un Bootcamp orientado a Data Analytics</strong>. 
+El siguiente trabajo corresponde a la <strong>entrega final de un Bootcamp orientado a Data Analytics de la academia Henry</strong>. 
 Se trata de un desarrollo integral que abarca todo el ciclo de vida del dato: desde la <strong>obtención y procesamiento de información</strong> hasta la <strong>construcción de modelos de Machine Learning</strong> para la toma de decisiones basada en datos.
 </p>
 
